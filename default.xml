@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project path="hello" name="zhwuba/hello" groups="pdk" remote="github" revision="Ver1" />
+  
+</manifest>
